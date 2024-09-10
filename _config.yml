@@ -2,7 +2,7 @@
 
 title: My Jekyll Site
 description: A simple Jekyll blog site.
-theme: minima  # Set the theme you want to use
+theme: jekyll-theme-minimal  # Set the theme you want to use
 baseurl: ""    # The subpath of your site, e.g. /blog
 url: "https://saeedesai.github.io"  # The base hostname & protocol for your site
 markdown: kramdown
